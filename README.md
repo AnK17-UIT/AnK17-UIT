@@ -24,7 +24,7 @@
 <div id="content">
     
 ### 😄 About me:    
-- 👀 I’m actually a sports geek due to my extraodinary interest in competitive sports such as football, basketball, etc. I won't say I'm a fan of Manchester United Football Club. 🔴 <br>
+- 👀 I’m actually a sports geek due to my extraodinary interest in competitive sports such as football, basketball, etc. I won't say I'm a huge fan of Manchester United Football Club. 🔴 <br>
 - 🔦 I’m looking forward to become a freelance coder and video editor. <br>
 - 🖊️ I’m currently learning more and more advanced coding languages and techniques in my extracurricular time so as to follow my dream. <br>
 </div>
