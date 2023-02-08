@@ -6,7 +6,7 @@
     </h1>
 </div>
 <div id="badges" align="center">
-  <a href="[https://www.facebook.com/nhzaan](https://www.facebook.com/profile.php?id=100089096063797)" >
+  <a href="https://www.facebook.com/profile.php?id=100089096063797" >
     <img src=https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge />  
   </a>
   
