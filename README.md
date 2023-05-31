@@ -27,8 +27,8 @@
 
 ### 🔥 My Stats: 
 <p align="center" >
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=NguyenHoangGiaAn&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangGiaAn&layout=compact&theme=github_dark">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=NguyenHoangGiaAn&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangGiaAn&layout=compact&theme=github_dark">
 </p>
     
 ### Languages and tools:
