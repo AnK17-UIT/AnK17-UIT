@@ -1,8 +1,7 @@
 <div id="header" align="center">
     <img src= https://media.giphy.com/media/SnevkEt4zCVWMCc8yk/giphy.gif />
     <h1>
-            NguyenHoangGiaAn
-            <img width="60" src= https://media.giphy.com/media/r1Ek7lP8mXKAZHhIWp/giphy.gif >
+            Nguyễn Hoàng Gia An
     </h1>
 </div>
 <div id="badges" align="center">
@@ -19,7 +18,7 @@
     </a>    
 </div>
 <div id="viewers" align="center">
-    <img src=https://komarev.com/ghpvc/?username=NguyenHoangGiaAn&color=%23E4405F&style=for-the-badge />
+    <img src=https://komarev.com/ghpvc/?username=AnK17-UIT&color=%23E4405F&style=for-the-badge />
 </div>    
 <div id="language">
 
@@ -27,8 +26,8 @@
 
 ### 🔥 My Stats: 
 <p align="center" >
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=NguyenHoangGiaAn&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangGiaAn&layout=compact&theme=github_dark">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AnK17-UIT&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=compact&theme=github_dark">
 </p>
     
 ### Languages and tools:
