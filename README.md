@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src= https://media.giphy.com/media/SnevkEt4zCVWMCc8yk/giphy.gif />
     <h2>
             Nguyễn Hoàng Gia An <br>
     </h2>
