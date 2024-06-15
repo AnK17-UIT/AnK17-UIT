@@ -1,5 +1,6 @@
 <div id="header" align="center">
-    <img src= https://media.giphy.com/media/SnevkEt4zCVWMCc8yk/giphy.gif />
+    <
+img src= https://media.giphy.com/media/SnevkEt4zCVWMCc8yk/giphy.gif />
     <h1>
             Nguyễn Hoàng Gia An
     </h1>
@@ -26,8 +27,9 @@
 
 ### 🔥 My Stats: 
 <p align="center" >
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AnK17-UIT&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=compact&theme=github_dark">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AnK17-UIT&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=compact&theme=synthwave">
+<img height = "200" src = "https://github-readme-stats.vercel.app/api?username=AnK17-UIT&theme=synthwave&show_icons=true">
 </p>
     
 ### Languages and tools:
