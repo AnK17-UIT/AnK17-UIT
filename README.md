@@ -1,6 +1,8 @@
 <div id="header" align="center">
     <p>
-        <a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" />
+        <a>
+    <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFqNzF0cjJ4eGtrZTVtOXJ2ZXZwMjhmYmRsdzk3OXdvc2g0OHYwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif'/>
+        </a>
     </p>
     <h1>
             Nguyễn Hoàng Gia An <br>
@@ -29,14 +31,13 @@
 
 <div id="stat">
 
-### 🔥 My Stats: 
+## 🔥 My Stats: 
 <p align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnK17-UIT&show_icons=true&theme=codeSTACKr">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=donut&theme=codeSTACKr">
 </p>
     
-### Languages and tools:
-</div>
+## 💻 Languages and tools:
 <div id="Link" align = "center">
     <img width = "50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" />
     <img width = "50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
