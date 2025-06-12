@@ -1,5 +1,4 @@
 <div id="header" align="center">
-        <img src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" class="giphy-embed" allowFullScreen />
     <p>
         <a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" />
     </p>
