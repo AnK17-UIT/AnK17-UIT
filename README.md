@@ -16,7 +16,8 @@
     <a id = 'gmail' href = "https://mail.google.com/mail/?view=cm&fs=1&to=nhgiaan2004@gmail.com">
         <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
     </a>
-    <a id = 'linkedin' href = "https://www.linkedin.com/in/gia-an-nguyễn-hoàng-865163314/">
+    <a id = 'linkedin' href = "https://www.linkedin.com/in/gia-an-nguyễn-hoàng-865163314/"
+>
         <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
     </a>
     <a id = 'kaggle' href = "https://www.kaggle.com/annguyenhoanggia">
@@ -33,8 +34,8 @@
 
 ## 🔥 My Stats: 
 <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnK17-UIT&show_icons=true&theme=codeSTACKr">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=donut&theme=codeSTACKr">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnK17-UIT&show_icons=true&theme=transparent">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=donut&theme=transparent">
 </p>
     
 ## 💻 Languages and tools:
