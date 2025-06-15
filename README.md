@@ -34,8 +34,8 @@
 
 ## 🔥 My Stats: 
 <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnK17-UIT&show_icons=true&theme=transparent">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=donut&theme=transparent">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnK17-UIT&show_icons=true&theme=codeSTACKr">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnK17-UIT&layout=donut&theme=codeSTACKr">
 </p>
     
 ## 💻 Languages and tools:
